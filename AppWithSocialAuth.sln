@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWithSocialAuth", "AppWithSocialAuth.csproj", "{194A76DE-CCF9-4938-8C3F-AF918AC0A854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{194A76DE-CCF9-4938-8C3F-AF918AC0A854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{194A76DE-CCF9-4938-8C3F-AF918AC0A854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{194A76DE-CCF9-4938-8C3F-AF918AC0A854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{194A76DE-CCF9-4938-8C3F-AF918AC0A854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F65A9B-2545-4E1B-AEAD-15BFEA3BFA2B}
+	EndGlobalSection
+EndGlobal
